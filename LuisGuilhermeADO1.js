@@ -1,4 +1,4 @@
-export class leao {
+export class Leao {
     nome;
     comida;
     sono;
