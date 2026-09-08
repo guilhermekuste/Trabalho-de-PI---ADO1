@@ -5,13 +5,13 @@ export class leao {
     constructor(pNome) {
         this.nome = pNome;
     }
-    comidas(pComer) {
+    comer(pComer) {
         if (pComer >= 2) {
-            console.log("Parabéns, vocês está bem alimentado");
+            console.log("Parabéns, você está bem alimentado");
             this.comida = pComer;
         }
         else {
-            console.log("Quem pena, preciso de comida");
+            console.log("Que pena, preciso de comida");
         }
     }
     dormir(hSono) {
