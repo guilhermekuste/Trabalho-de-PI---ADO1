@@ -1,4 +1,4 @@
-import { leao } from "./LuisGuilhermeADO1.js";
+import { Leao } from "./LuisGuilhermeADO1.js";
 
 const leao1 = new leao("luis");
 const leao2 = new leao("lucas");
