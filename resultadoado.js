@@ -1,6 +1,6 @@
 import { Leao } from "./LuisGuilhermeADO1.js";
-const leao1 = new Leao("luis");
-const leao2 = new Leao("lucas");
+const leao1 = new Leao("Luis");
+const leao2 = new Leao("Lucas");
 
 
 
